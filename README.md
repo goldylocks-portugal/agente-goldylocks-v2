@@ -1,1 +1,2 @@
-# agente-goldylocks-v2
+# Agente de Impressão Goldylocks
+## Windows
