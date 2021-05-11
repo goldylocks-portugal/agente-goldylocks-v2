@@ -1,2 +1,3 @@
 # Agente de Impressão Goldylocks
-## Windows
+#### Sistemas operativos:
++ Windows 32/64 bits
