@@ -2,6 +2,8 @@
 [www.goldylocks.pt](https://www.goldylocks.pt)
 #### Sistemas operativos:
 + Windows 32/64 bits
++ Linux debian/ubuntu 32/64 bits
++ MacOS
 
 #### Funcionalidades
 + Partilha de impressoras entre postos
